@@ -1,0 +1,2 @@
+# artifacts
+Creates and artifact
